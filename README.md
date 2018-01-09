@@ -1,2 +1,5 @@
-# uk-geocoding-jquery
-UK geocoding with jQuery
+# UK geocoding with jQuery
+
+Simple demo which passes postcode to the API on form submit and returns latitude and longitude.
+
+Full geocoding API documentation:- https://developers.alliescomputing.com/postcoder-web-api/geocoding/position
